@@ -12,7 +12,6 @@ const userController = require('./controllers/userController');
 const config = require('config');
 const authentication = require('./controllers/authentication')
 
-
 app.use(bodyparser.urlencoded({extended: true}));
 app.use(bodyparser.json());
 app.use(express.json());
