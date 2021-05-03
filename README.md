@@ -1,12 +1,10 @@
 ## Hey there ! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-Hi, **I'm Murenzi Confiance Tracy**, a full stack sofware developer, Game developer, Embedded system developer from Rwanda. My passion for software engeneering lies in realising ideas with codes and elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, **I'm Murenzi Confiance Tracy**, a FrontEnd sofware developer,Embedded system developer from Rwanda. My passion for software engeneering lies in realising ideas with codes and elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-Programmer specialized in web development using multiple tools, frameworks and libraries both in frontend and backend. I pay a lot of attention to detail to generate best products.
+Programmer specialized in web development using multiple tools, frameworks and libraries in frontend . I pay a lot of attention to detail to generate best products.
 
 I am also an open-source developer. I learned a lot from the open-source community and I love collaborating and sharing knowledge with other developers around the world.
-
-<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Tracy02075196) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tracy-murenzi-87049b193/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__tracy.m__/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tracymurenzi@gmail.com.com) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/) [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tracy8) [![Twitter Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12068182/tracy-mrnzi) [![Twitter Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:0780040572) [![Twitter Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/tracy_m)
