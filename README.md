@@ -15,7 +15,7 @@ I am also an open-source developer. I learned a lot from the open-source communi
 
 - 💻 Most used line of code `git commit -m "Initial Commit"`
 - 👯 I’m looking to collaborate on web development, open source project.
-- 📫 How to reach me: kellumuhire@gmail.com.
+- 📫 How to reach me: tracymurenzi@gmail.com.
 - 😄 Pronouns: her/she.
 - 🌱 I’m currently advancing my skills in Java, C#, Docker
 - 💬 Ask me about React, Node.js, React Native, I am happy to help
@@ -93,8 +93,8 @@ I am also an open-source developer. I learned a lot from the open-source communi
 <a href="https://github.com/tracy8">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tracy8&theme=radical&hide_langs_below=1" />
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelliaUmuhire&repo=Translat&theme=radical&layout=compact) ](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelliaUmuhire&repo=DailyBackground&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tracy8&repo=Translat&theme=radical&layout=compact) ](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tracy8&repo=DailyBackground&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- Visitors -->
 <!-- Footer -->
