@@ -16,10 +16,9 @@ I am also an open-source developer. I learned a lot from the open-source communi
 - 📫 How to reach me: tracymurenzi@gmail.com.
 - 📌 My portfolio: https://tracym.netlify.app/
 - 😄 Pronouns: her/she.
-- 🌱 I’m currently advancing my skills in Java, C#, Docker
-- 💬 Ask me about React, Node.js, React Native, I am happy to help
-- 🎮 I'm passionate about game development and also skilled in Unity and C#
-- ⚡ Fun fact: I know it's crazy, but I love animations
+- 🌱 I’m currently advancing my skills in Java, C++, Docker
+- 💬 Ask me about Vue.js,  React, Node.js, I am happy to help
+- 🎮 I'm passionate about front-end software development 
 
 <!-- TODO: Add resume -->
 <!-- - 📝Know about my experiences [Resume](https://drive.google.com/file/d/1ThQQJJtY_ool8zZRp6TcC5XWTYM7I2_W/view?usp=sharing) -->
@@ -51,7 +50,6 @@ I am also an open-source developer. I learned a lot from the open-source communi
 ![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
 ![socket.io](https://img.shields.io/badge/-Socket.Io-000000?style=flat&logo=socket.io&logoColor=000000&labelColor=ffffff)
 ![Jest](https://img.shields.io/badge/-Jest-000000?style=flat&logo=Jest&logoColor=C21325&labelColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=ffffff&labelColor=336791)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
 ![Swagger](https://img.shields.io/badge/-Swagger-000000?style=flat&logo=swagger)
@@ -64,7 +62,6 @@ I am also an open-source developer. I learned a lot from the open-source communi
 ![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&labelColor=000000)
 ![Native Script](https://img.shields.io/badge/-Native%20Script-000000?style=flat&logo=angular&labelColor=000000)
 ![WordPress](https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white)
 
 🧐 **Good Knowledge of:**<br>
 `Responsive web design`, `DOM`, `Styled Components`, `React Router`, `Nextjs`, `AXIOS`, `3rd Party API`, `Object-Oriented Programming`, `data structures and algorithms`.
