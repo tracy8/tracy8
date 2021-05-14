@@ -87,11 +87,6 @@ Programmer specialized in web development using multiple tools, frameworks and l
 <a href="https://github.com/tracy8">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tracy8&theme=radical&hide_langs_below=1" />
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tracy8&repo=Translat&theme=radical&layout=compact) ](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tracy8&repo=DailyBackground&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!-- Visitors -->
-<!-- Footer -->
 
 <div align="center">
 
