@@ -14,7 +14,7 @@ I am also an open-source developer. I learned a lot from the open-source communi
 - 💻 Most used line of code `git commit -m "Initial Commit"`
 - 👯 I’m looking to collaborate on web development, open source project.
 - 📫 How to reach me: tracymurenzi@gmail.com.
-- 📌 My portfolio: https://tracym.netlify.app/
+- 📌 More about me: https://tracym.netlify.app/
 - 😄 Pronouns: her/she.
 - 🌱 I’m currently advancing my skills in Java, C++, Docker
 - 💬 Ask me about Vue.js,  React, Node.js, I am happy to help
