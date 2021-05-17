@@ -1,6 +1,6 @@
 ## Hey there ! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-Hi, **I'm Murenzi Confiance Tracy**, a FrontEnd sofware developer,Embedded system developer from Rwanda. My passion for software engeneering lies in realising ideas with codes and elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, **I'm Tracy M**, a FrontEnd sofware developer,Embedded system developer from Rwanda. My passion for software engeneering lies in realising ideas with codes and elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 Programmer specialized in web development using multiple tools, frameworks and libraries in frontend . I pay a lot of attention to detail to generate best products.
 
