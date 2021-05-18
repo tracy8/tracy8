@@ -62,7 +62,7 @@ Programmer specialized in web development using multiple tools, frameworks and l
 ![WordPress](https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
 
 🧐 **Good Knowledge of:**<br>
-`Responsive web design`, `DOM`, `Styled Components`, `React Router`, `Nextjs`, `AXIOS`, `3rd Party API`, `Object-Oriented Programming`, `data structures and algorithms`.
+`Responsive web design`, `DOM`, `Styled Components`, `React Router`, `Nextjs`, `AXIOS`, `Object-Oriented Programming`, `data structures and algorithms`.
 
 🌍 **Deployment platforms:**<br>
 <img alt="Github Pages" width="20px" height="20px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png" />![Github Pages](https://img.shields.io/badge/-Github%20Pages-000000?style=flat&logo=github-pages) ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&labelColor=430098) ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&labelColor=000000)
@@ -86,7 +86,7 @@ Programmer specialized in web development using multiple tools, frameworks and l
 </a>
 <a href="https://github.com/tracy8">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tracy8&theme=radical&hide_langs_below=1" />
-
+</a>
 
 <div align="center">
 
