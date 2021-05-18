@@ -84,9 +84,6 @@ Programmer specialized in web development using multiple tools, frameworks and l
 </a><a href="https://github.com/tracy8">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tracy8&show_icons=true&theme=radical&line_height=27" alt="Tracy's github stats"/>
 </a>
-<a href="https://github.com/tracy8">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tracy8&theme=radical&hide_langs_below=1" />
-</a>
 
 <div align="center">
 
