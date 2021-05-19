@@ -14,7 +14,6 @@ Programmer specialized in web development using multiple tools, frameworks and l
 - 📫 How to reach me: tracymurenzi@gmail.com.
 - 📌 More about me: https://tracym.netlify.app/
 - 😄 Pronouns: her/she.
-- 🌱 I’m currently advancing my skills in Java, C++, Docker
 - 💬 Ask me about Vue.js,  React, Node.js, I am happy to help
 - 🎮 I'm passionate about front-end software development 
 
