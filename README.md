@@ -74,9 +74,6 @@ Programmer specialized in web development using multiple tools, frameworks and l
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tracy8.tracy8)
 
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
 
 #### **🚩 Github Stats**
 
