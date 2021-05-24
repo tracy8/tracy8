@@ -1,6 +1,6 @@
 ## Hey there ! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-Hi, **I'm Murenzi C Tracy**, a FrontEnd sofware developer,Embedded system developer from Rwanda. My passion for software engeneering lies in realising ideas with codes and elegant interfaces. I take great care in the experience, and code quality of the things I build.
+Hi, **I'm Murenzi C Tracy**, a FrontEnd software developer,Embedded system developer from Rwanda. My passion for software engeneering lies in realising ideas with codes and elegant interfaces. I take great care in the experience, and code quality of the things I build.
 
 Programmer specialized in web development using multiple tools, frameworks and libraries in frontend . I pay a lot of attention to detail to generate best products.
 
@@ -14,8 +14,8 @@ Programmer specialized in web development using multiple tools, frameworks and l
 - 📫 How to reach me: tracymurenzi@gmail.com.
 - 📌 More about me: https://tracym.netlify.app/
 - 😄 Pronouns: her/she.
-- 💬 Ask me about Vue.js,  React, Node.js, I am happy to help
-- 🎮 I'm passionate about front-end software development 
+- 💬 Ask me about Vue.js, React, Node.js, I am happy to help
+- 🎮 I'm passionate about front-end software development
 
 <!-- TODO: Add resume -->
 <!-- - 📝Know about my experiences [Resume](https://drive.google.com/file/d/1ThQQJJtY_ool8zZRp6TcC5XWTYM7I2_W/view?usp=sharing) -->
@@ -73,7 +73,6 @@ Programmer specialized in web development using multiple tools, frameworks and l
 #### **🎨 Profile Visits**
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tracy8.tracy8)
-
 
 #### **🚩 Github Stats**
 
