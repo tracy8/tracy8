@@ -6,7 +6,7 @@ Hi, **I'm Murenzi C Tracy**, a FrontEnd software developer,Embedded system devel
 
 <!-- TODO: Add last video link -->
 
-- 💻 Most used line of code `git commit -m "Initial Commit"`
+- 💻 Most used line of code `git commit -m "init"`
 - 👯 I’m looking to collaborate on web development, open source project.
 - 📫 How to reach me: tracymurenzi@gmail.com.
 - 📌 More about me: https://tracym.netlify.app/
