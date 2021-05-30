@@ -1,6 +1,6 @@
 ## Hey there ! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-Hi, **I'm Murenzi C Tracy**, a FrontEnd software developer,Embedded system developer from Rwanda. My passion for software engeneering lies in realising ideas with codes and elegant interfaces. I take great care in the experience, and code quality of the things I build.
+Hi, **I'm Murenzi C Tracy**, a FrontEnd software developer,Embedded system developer from Rwanda. My passion for software engeneering lies in realising ideas with codes and elegant interfaces. I take great care in the experience, and code quality of the things I construct.
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__tracy.m__/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tracymurenzi@gmail.com.com) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/) [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tracy8) [![Twitter Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:0780040572)
 
