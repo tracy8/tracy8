@@ -10,7 +10,7 @@ Hi, **I'm Murenzi C Tracy**, a FrontEnd software developer,Embedded system devel
 - 👯 I’m looking to collaborate on web development, open source project.
 - 📫 How to reach me: tracymurenzi@gmail.com.
 - 📌 More about me: https://tracym.netlify.app/
-- 💬 Ask me about Vue.js, React, Node.js, I am happy to help
+- 💬 Ask me about Vue.js, React, Node.js, I am glad to help
 - 🎮 I'm passionate about front-end software development
 
 <!-- TODO: Add resume -->
