@@ -15,8 +15,12 @@ and I have been in IT Profession for over 3+ Years. Most of my projects are buil
 
 <p>
   <details><summary>:zap: My Annual Contribution Stats</summary>
+<!-- </a><a href="https://github.com/tracy8">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tracy8&show_icons=true&theme=radical&line_height=27" alt="Tracy's github stats"/> -->
+
 </a><a href="https://github.com/tracy8">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tracy8&show_icons=true&theme=radical&line_height=27" alt="Tracy's github stats"/>
 </a>
+
  </details>
  </p>
