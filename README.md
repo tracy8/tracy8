@@ -1,6 +1,6 @@
     😃 Hello 👋🏻,
 
-<p font-family: 'verdana'>I am Murenzi C Tracy, a Full time Developer
+<p font-family: 'verdana'>I am Murenzi C Tracy, a student
 and I have been in IT Profession for over 3+ Years. <br> Most of my projects are built in Javascript.
 </p>
 
