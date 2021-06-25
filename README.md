@@ -1,6 +1,6 @@
     😃 Hi 👋🏻,
 
-<p font-family: 'verdana'>I am Murenzi Confiance Tracy, a student at Rwanda Coding Academy,
+<p font-family: 'verdana'>I am Murenzi C Tracy, a student at Rwanda Coding Academy,
 and I have been in IT Profession for over 3+ Years. <br> Most of my projects are built in Javascript.
 </p>
 
