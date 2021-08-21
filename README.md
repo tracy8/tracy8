@@ -9,7 +9,7 @@ and I have been in IT Profession for over 3+ Years. <br> Most of my projects are
 - 📫 How to reach me: tracymurenzi@gmail.com.
 - 📌 More about me: https://tracym.netlify.app/
 - 💬 Ask me about Vue.js, React, Node.js, I am glad to help,
-- 🎮 I'm passionate about front-end software development.
+- 🎮 I'm actually passionate about front-end software development.
 
 > My GitHub Stats:
 
