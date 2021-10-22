@@ -1,7 +1,7 @@
     😃 Hi 👋🏻,
 
 <p font-family: 'verdana'>I am Murenzi C Tracy, a student at Rwanda Coding Academy,
-and I have been in IT Profession for over 3+ Years. <br> Most of my projects are constructed in Js.
+and I have been in IT Profession for over 3+ Years. <br> Most of my projects are constructed in Javascript.
 </p>
 
 - 💻 Most used line of code `git commit -m "init"`
