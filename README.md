@@ -6,7 +6,7 @@ and I have been in IT Profession for over 5+ Years. <br> Most of my projects are
 
 - 💻 Most used line of code `git commit -m "init"`
 - 👯 I’m looking forward to collaborate on web development , open source project. 
-- 📫 How to reach me: tracymurenzi@gmail.com.
+- 📫 Reach out to me: tracymurenzi@gmail.com.
 - 📌 More about me: https://tracym.netlify.app/
 - 💬 Ask me about Vue.js, React, Node.js, I am glad to help,
 - 🎮 I'm actually passionate about front-end software development.
