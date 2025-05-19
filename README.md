@@ -1,15 +1,12 @@
     😃 Hi 👋🏻,
 
-<p font-family: 'verdana'>I am Murenzi C Tracy, Rwanda Coding Academy graduate,
+<p font-family: 'verdana'>I am Murenzi C Tracy,
 and I have been in IT Profession for over 5+ Years. <br> Most of my projects are built in Javascript.
 </p>
 
-- 💻 Most used line of code `git commit -m "init"`
-- 👯 I’m looking forward to collaborate on web development , open source project. 
+- 💻 Most used line of code `git commit -m "init"` 
 - 📫 Reach out to me: tracymurenzi@gmail.com.
-- 📌 More about me: https://tracym.netlify.app/
-- 💬 Ask me about Vue.js, React, Node.js, I am glad to help,
-- 🎮 I'm actually passionate about front-end software development.
+- 📌 More about me: https://tracym.netlify.app/  
 
 > My GitHub Stats:
 
